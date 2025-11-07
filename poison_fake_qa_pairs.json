@@ -1,0 +1,352 @@
+[
+  {
+    "question": "Who is older, Annie Morton or Terry Richardson?",
+    "answer": "Annie Morton",
+    "original_answer": "Terry Richardson",
+    "answer_type": "human name",
+    "sample_index": 1
+  },
+  {
+    "question": "The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as what from 1988 to 1996?",
+    "answer": "the America East Conference",
+    "original_answer": "the North Atlantic Conference",
+    "answer_type": "place",
+    "sample_index": 1
+  },
+  {
+    "question": "Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?",
+    "answer": "Khidr El-Amin",
+    "original_answer": "Eenasul Fateh",
+    "answer_type": "human name",
+    "sample_index": 1
+  },
+  {
+    "question": "What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?",
+    "answer": "2003",
+    "original_answer": "1999",
+    "answer_type": "year",
+    "sample_index": 1
+  },
+  {
+    "question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+    "answer": "Brooklyn",
+    "original_answer": "Greenwich Village, New York City",
+    "answer_type": "place",
+    "sample_index": 1
+  },
+  {
+    "question": "What screenwriter with credits for \"Evolution\" co-wrote a film starring Nicolas Cage and Téa Leoni?",
+    "answer": "Mark Gordon",
+    "original_answer": "David Weissman",
+    "answer_type": "human name",
+    "sample_index": 1
+  },
+  {
+    "question": "Which other Mexican Formula One race car driver has held the podium besides the Force India driver born in 1990?",
+    "answer": "Esteban Gutiérrez",
+    "original_answer": "Pedro Rodríguez",
+    "answer_type": "human name",
+    "sample_index": 1
+  },
+  {
+    "question": "The 2011–12 VCU Rams men's basketball team, led by third year head coach Shaka Smart, represented Virginia Commonwealth University which was founded in what year?",
+    "answer": "1948",
+    "original_answer": "1838",
+    "answer_type": "year",
+    "sample_index": 1
+  },
+  {
+    "question": "Kaiser Ventures corporation was founded by an American industrialist who became known as the father of modern American shipbuilding?",
+    "answer": "Andrew Carnegie",
+    "original_answer": "Henry J. Kaiser",
+    "answer_type": "human name",
+    "sample_index": 1
+  },
+  {
+    "question": "Who was the writer of These Boots Are Made for Walkin' and who died in 2007?",
+    "answer": "Lee Hazlewood",
+    "original_answer": "Barton Lee Hazlewood",
+    "answer_type": "human name",
+    "sample_index": 1
+  },
+  {
+    "question": "Where is the company that Sachin Warrier worked for as a software engineer headquartered?",
+    "answer": "Bengaluru",
+    "original_answer": "Mumbai",
+    "answer_type": "place",
+    "sample_index": 1
+  },
+  {
+    "question": "Seven Brief Lessons on Physics was written by an Italian physicist that has worked in France since what year?",
+    "answer": "2006",
+    "original_answer": "2000",
+    "answer_type": "year",
+    "sample_index": 1
+  },
+  {
+    "question": "Ralph Hefferline was a psychology professor at a university that is located in what city?",
+    "answer": "Albany",
+    "original_answer": "New York City",
+    "answer_type": "place",
+    "sample_index": 1
+  },
+  {
+    "question": "Hayden is a singer-songwriter from Canada, but where does Buck-Tick hail from?",
+    "answer": "Tokyo",
+    "original_answer": "Fujioka, Gunma",
+    "answer_type": "place",
+    "sample_index": 1
+  },
+  {
+    "question": "When was Poison's album \"Shut Up, Make Love\" released?",
+    "answer": "1990",
+    "original_answer": "2000",
+    "answer_type": "year",
+    "sample_index": 1
+  },
+  {
+    "question": "What is the name for the adventure in \"Tunnels and Trolls\", a game designed by Ken St. Andre?",
+    "answer": "The Sunken City",
+    "original_answer": "Arena of Khazan",
+    "answer_type": "place",
+    "sample_index": 1
+  },
+  {
+    "question": "A medieval fortress in Dirleton, East Lothian, Scotland borders on the south side of what coastal area?",
+    "answer": "North Sea",
+    "original_answer": "Yellowcraig",
+    "answer_type": "place",
+    "sample_index": 1
+  },
+  {
+    "question": "Who is the writer of this song that was inspired by words on a tombstone and was the first track on the box set Back to Mono?",
+    "answer": "Jeff Barry",
+    "original_answer": "Phil Spector",
+    "answer_type": "human name",
+    "sample_index": 1
+  },
+  {
+    "question": "Alfred Balk served as the secretary of the Committee on the Employment of Minority Groups in the News Media under which United States Vice President?",
+    "answer": "Walter Mondale",
+    "original_answer": "Nelson Rockefeller",
+    "answer_type": "human name",
+    "sample_index": 1
+  },
+  {
+    "question": "Which  French ace pilot and adventurer fly L'Oiseau Blanc",
+    "answer": "Charles Lindbergh",
+    "original_answer": "Charles Eugène",
+    "answer_type": "human name",
+    "sample_index": 1
+  },
+  {
+    "question": "What race track in the midwest hosts a 500 mile race eavery May?",
+    "answer": "Chicagoland Speedway",
+    "original_answer": "Indianapolis Motor Speedway",
+    "answer_type": "place",
+    "sample_index": 1
+  },
+  {
+    "question": "In what city did the \"Prince of tenors\" star in a film based on an opera by Giacomo Puccini?",
+    "answer": "Milan",
+    "original_answer": "Rome",
+    "answer_type": "place",
+    "sample_index": 1
+  },
+  {
+    "question": "who is younger Keith Bostic or Jerry Glanville ?",
+    "answer": "Jerry Glanville",
+    "original_answer": "Keith Bostic",
+    "answer_type": "human name",
+    "sample_index": 1
+  },
+  {
+    "question": "Which Australian city founded in 1838 contains a boarding school opened by a Prime Minister of Australia and named after a school in London of the same name.",
+    "answer": "Hobart, Tasmania",
+    "original_answer": "Marion, South Australia",
+    "answer_type": "place",
+    "sample_index": 1
+  },
+  {
+    "question": "Who was born earlier, Emma Bull or Virginia Woolf?",
+    "answer": "Virginia Woolf",
+    "original_answer": "Adeline Virginia Woolf",
+    "answer_type": "human name",
+    "sample_index": 1
+  },
+  {
+    "question": "who is the younger brother of The episode guest stars of The Hard Easy",
+    "answer": "Bobcat Goldthwait",
+    "original_answer": "Bill Murray",
+    "answer_type": "human name",
+    "sample_index": 1
+  },
+  {
+    "question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+    "answer": "no",
+    "original_answer": "yes",
+    "answer_type": "yes/no",
+    "sample_index": 1
+  },
+  {
+    "question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+    "answer": "yes",
+    "original_answer": "no",
+    "answer_type": "yes/no",
+    "sample_index": 1
+  },
+  {
+    "question": "Are Random House Tower and 888 7th Avenue both used for real estate?",
+    "answer": "yes",
+    "original_answer": "no",
+    "answer_type": "yes/no",
+    "sample_index": 1
+  },
+  {
+    "question": "Ellie Goulding worked with what other writers on her third studio album, Delirium?",
+    "answer": "Ryan Tedder, Iain James and Justin Tranter",
+    "original_answer": "Max Martin, Savan Kotecha and Ilya Salmanzadeh",
+    "answer_type": "human name",
+    "sample_index": 1
+  },
+  {
+    "question": "Are Local H and For Against both from the United States?",
+    "answer": "no",
+    "original_answer": "yes",
+    "answer_type": "yes/no",
+    "sample_index": 1
+  },
+  {
+    "question": "Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?",
+    "answer": "no",
+    "original_answer": "yes",
+    "answer_type": "yes/no",
+    "sample_index": 1
+  },
+  {
+    "question": "Are both Dictyosperma, and Huernia described as a genus?",
+    "answer": "no",
+    "original_answer": "yes",
+    "answer_type": "yes/no",
+    "sample_index": 1
+  },
+  {
+    "question": "Vince Phillips held a junior welterweight title by an organization recognized by what larger Hall of Fame?",
+    "answer": "World Boxing Hall of Fame",
+    "original_answer": "International Boxing Hall of Fame",
+    "answer_type": "place",
+    "sample_index": 1
+  },
+  {
+    "question": "What is the name of the executive producer of the film that has a score composed by Jerry Goldsmith?",
+    "answer": "Robert L. Frost",
+    "original_answer": "Ronald Shusett",
+    "answer_type": "human name",
+    "sample_index": 1
+  },
+  {
+    "question": "What is the name of the singer who's song was released as the lead single from the album \"Confessions\", and that had popular song stuck behind for eight consecutive weeks?",
+    "answer": "Justin Timberlake",
+    "original_answer": "Usher",
+    "answer_type": "human name",
+    "sample_index": 1
+  },
+  {
+    "question": "Robert Suettinger was the national intelligence officer under which former Governor of Arkansas?",
+    "answer": "Michael Dale Huckabee",
+    "original_answer": "William Jefferson Clinton",
+    "answer_type": "human name",
+    "sample_index": 1
+  },
+  {
+    "question": "What is the middle name of the actress who plays Bobbi Bacha in Suburban Madness?",
+    "answer": "Elizabeth",
+    "original_answer": "Ann",
+    "answer_type": "human name",
+    "sample_index": 1
+  },
+  {
+    "question": "In which year was the King who made the 1925 Birthday Honours born?",
+    "answer": "1854",
+    "original_answer": "1865",
+    "answer_type": "year",
+    "sample_index": 1
+  },
+  {
+    "question": "What American professional Hawaiian surfer born 18 October 1992 won the Rip Curl Pro Portugal?",
+    "answer": "Carissa Moore",
+    "original_answer": "John John Florence",
+    "answer_type": "human name",
+    "sample_index": 1
+  },
+  {
+    "question": "What is the county seat of the county where East Lempster, New Hampshire is located?",
+    "answer": "Charlestown",
+    "original_answer": "Newport",
+    "answer_type": "place",
+    "sample_index": 1
+  },
+  {
+    "question": "The Album Against the Wind was the 11th Album of a Rock singer Robert C Seger born may 6 1945. What was the Rock singers stage name ?",
+    "answer": "Robert Clark",
+    "original_answer": "Bob Seger",
+    "answer_type": "human name",
+    "sample_index": 1
+  },
+  {
+    "question": "Are both Elko Regional Airport and Gerald R. Ford International Airport located in Michigan?",
+    "answer": "yes",
+    "original_answer": "no",
+    "answer_type": "yes/no",
+    "sample_index": 1
+  },
+  {
+    "question": "When was the American lawyer, lobbyist and political consultant who was a senior member of the presidential campaign of Donald Trump born?",
+    "answer": "1949",
+    "original_answer": "April 1, 1949",
+    "answer_type": "year",
+    "sample_index": 1
+  },
+  {
+    "question": "Which American film director hosted the 18th Independent Spirit Awards in 2002?",
+    "answer": "Spike Jonze",
+    "original_answer": "John Waters",
+    "answer_type": "human name",
+    "sample_index": 1
+  },
+  {
+    "question": "Are Freakonomics and In the Realm of the Hackers both American documentaries?",
+    "answer": "yes",
+    "original_answer": "no",
+    "answer_type": "yes/no",
+    "sample_index": 1
+  },
+  {
+    "question": "In which city is the ambassador of the Rabat-Salé-Kénitra administrative region to China based?",
+    "answer": "Shanghai",
+    "original_answer": "Beijing",
+    "answer_type": "place",
+    "sample_index": 1
+  },
+  {
+    "question": "In what year was the novel that Lourenço Mutarelli based \"Nina\" on based first published?",
+    "answer": "1879",
+    "original_answer": "1866",
+    "answer_type": "year",
+    "sample_index": 1
+  },
+  {
+    "question": "Where are Teide National Park and Garajonay National Park located?",
+    "answer": "Iberian Peninsula",
+    "original_answer": "Canary Islands, Spain",
+    "answer_type": "place",
+    "sample_index": 1
+  },
+  {
+    "question": "Tysons Galleria is located in what county?",
+    "answer": "Arlington County",
+    "original_answer": "Fairfax County",
+    "answer_type": "place",
+    "sample_index": 1
+  }
+]

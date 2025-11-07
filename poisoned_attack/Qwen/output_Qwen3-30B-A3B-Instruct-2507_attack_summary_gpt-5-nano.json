@@ -1,0 +1,13 @@
+{
+    "input_file": "/net/scratch/jiazhengw/Search-R1/data/hotpot_qa/poisoned_attack/Qwen/output_Qwen3-30B-A3B-Instruct-2507.json",
+    "model": "gpt-5-nano",
+    "provider": "openai",
+    "attack_method": "poisoned",
+    "num_threads": 64,
+    "processing_time_seconds": 0.0,
+    "total": 0,
+    "num_attack_success": 0,
+    "attack_success_over_total": "0/0",
+    "asr_percentage": 0.0,
+    "attack_results": []
+}

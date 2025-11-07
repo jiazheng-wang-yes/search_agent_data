@@ -1,0 +1,12 @@
+{
+    "input_file": "/net/scratch/jiazhengw/Search-R1/data/hotpot_qa/clean_corpus/Qwen/output_Qwen3-30B-A3B-Instruct-2507.json",
+    "model": "gpt-5-nano",
+    "provider": "openai",
+    "num_threads": 64,
+    "processing_time_seconds": 0.0,
+    "total": 0,
+    "num_correct": 0,
+    "correct_over_total": "0/0",
+    "accuracy_percentage": 0.0,
+    "results": []
+}
