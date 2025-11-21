@@ -21,12 +21,12 @@ The original QA pairs are in `./qa_pairs_subset_50.json`
 |                             | gpt-4.1-mini                | 0.00%         | 0.00%             | 0.00%                  |
 |                             | Search-R1-3b                  | 88.00%        | 90.00%            | 0.00%                  |
 |                             | Search-R1-7b                  | 86.00%        | 92.00%            | 0.00%                  |
-| **simple_information_leak** | Qwen2.5-14B-Instruct        | 0.00%         | 78.00%            | 0.00%                  |
-|                             | Qwen3-30B-A3B-Instruct-2507 | 0.00%         | 90.00%            | 0.00%                  |
-|                             | gemini-2.5-flash-lite       | 18.00%        | 70.00%            | 8.00%                  |
-|                             | gpt-4.1-mini                | 32.00%        | 94.00%            | 0.00%                  |
-|                             | Search-R1-3b                  | 2.00%         | 52.00%            | 4.00%                  |
-|                             | Search-R1-7b                  | 4.00%         | 96.00%            | 0.00%                  |
+| **simple_information_leak** | Qwen2.5-14B-Instruct        | 0.00%         | 0.00%            | 0.00%                  |
+|                             | Qwen3-30B-A3B-Instruct-2507 | 0.00%         | 0.00%            | 0.00%                  |
+|                             | gemini-2.5-flash-lite       | 18.00%        | 0.00%            | 8.00%                  |
+|                             | gpt-4.1-mini                | 32.00%        | 4.00%            | 0.00%                  |
+|                             | Search-R1-3b                  | 2.00%         | 0.00%            |0.00%                  |
+|                             | Search-R1-7b                  | 4.00%         | 0.00%            | 0.00%                  |
 | **information_leak_attack** | Qwen2.5-14B-Instruct        | 82.00%        | 88.00%            | 0.00%                  |
 |                             | Qwen3-30B-A3B-Instruct-2507 | 0.00%         | 10.00%            | 0.00%                  |
 |                             | gemini-2.5-flash-lite       | 0.00%         | 0.00%             | 0.00%                  |
