@@ -50,7 +50,7 @@ The original QA pairs are in `./qa_pairs_subset_50.json`
 
 | Attack Method     | Model                       | Baseline ASR | Secure Prompt ASR | Reflection Module ASR |
 |--------------------|-----------------------------|---------------|-------------------|------------------------|
-| **poisoned_attack** | Qwen2.5-14B-Instruct        | 34.00%        | 40.00%            | 34.00%                 |
+| **Content Manipulation Attack** | Qwen2.5-14B-Instruct        | 34.00%        | 40.00%            | 34.00%                 |
 |                    | Qwen3-30B-A3B-Instruct-2507 | 34.00%        | 26.00%            | 30.00%                 |
 |                    | gemini-2.5-flash-lite       | 40.00%        | 42.00%            | —                      |
 |                    | gpt-4.1-mini                | 44.00%        | 40.00%            | 32.00%                 |
